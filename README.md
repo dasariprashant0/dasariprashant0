@@ -41,6 +41,7 @@
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=dasariprashant0&show_icons=true&locale=en&theme=dark" alt="dasariprashant0" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dasariprashant0&theme=dark" alt="dasariprashant0" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dasariprashant0&theme=dark" alt="GitHub Streak" /></a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=dasariprashant0&theme=react-dark"/>
