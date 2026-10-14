@@ -2,7 +2,7 @@
 
 Frontend engineer. I build pixel-perfect interfaces and make slow sites fast, mostly with React, Next.js and Webflow.
 
-[Portfolio](https://dasariprashant0.github.io/) · [Case studies](https://prashant-dasari.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prashant-dasari-8788b7199) · [Email](mailto:dasariprashant0@gmail.com)
+[Portfolio](https://prashant-dasari.vercel.app) · [LinkedIn](https://www.linkedin.com/in/prashant-dasari-8788b7199) · [Email](mailto:dasariprashant0@gmail.com)
 
 ## Now
 
